@@ -18,6 +18,11 @@ We leverage the **all-MiniLM-L6-v2** model from Hugging Face's `sentence-transfo
 ## 🎯 Goal
 Simply run the Colab cells, enter a query (e.g., "Sci-Fi movies with spaceships"), and get personalized movie recommendations!
 
+## 🌟 Example of Results:
+<img width="1440" alt="Screenshot 2024-09-15 at 12 23 58 PM" src="https://github.com/user-attachments/assets/cf484215-3f1b-40dd-ac7e-aae19d70de1b">
+<img width="1440" alt="Screenshot 2024-09-15 at 12 26 20 PM" src="https://github.com/user-attachments/assets/983fd504-4c39-4cde-a948-fa5974793c26">
+
+
 ## 🛠 Acknowledgments
 Special thanks to [this amazing tutorial on YouTube](https://www.youtube.com/watch?v=Y_CwkmGkZAI) for inspiration and guidance!
 
